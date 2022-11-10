@@ -1,0 +1,135 @@
+body {
+  background-color:grey;
+  font-family: 'Neuton', serif;
+  color:black;
+}
+
+n img {margin-right:10px;
+margin-left:230px;}
+
+p{margin-left:180px;
+margin-right:110px;
+text-decoration: underline;
+background-color:white;
+  resize: both;
+  overflow:auto;
+}
+a p{margin-left:180px;
+margin-right:110px;
+color:white;
+text-decoration: underline;
+background-color:black;
+  resize: both;
+     overflow:auto;}
+t p{margin-left:45px;
+margin-right:600px;
+  font-size:12px;
+}
+n p{margin-left:152px;
+margin-right:505px;
+  font-size:12px;
+}
+g p{margin-left:315px;
+margin-right:345px;
+  font-size:12px;
+  position: absolute;
+  left:20px;
+  top: 460px;
+}
+
+k p{margin-left:599px;
+margin-right:60px;
+  font-size:12px;
+  position: absolute;
+  left:20px;
+  top: 460px;
+}
+z p{margin-left:470px;
+margin-right:170px;
+  font-size:12px;
+  position: absolute;
+  left:20px;
+  top: 835px;
+}
+h1{color:white;
+  font-family: 'Libre Baskerville', serif;
+  margin-right:0px;
+  margin-left:320px;
+  font-size:30px;
+}
+
+h3{color:white;
+font-family:'Libre Baskerville',serif;}
+
+v h2{color:red;
+font-family:'Libre Baskerville',serif;
+  text-shadow: 2px 2px 8px #FF0000;
+  margin-left:325px;
+  margin-right:120px;
+}
+nav ul {
+    background-color:white;
+    border-style: solid;
+  border-color:Red;
+  border-width: 2px;
+  padding: 10px;
+  border-radius: 100px;
+}
+nav ul li a {
+    text-decoration: none;
+    color:red;
+}
+nav ul li {
+    list-style-type: none;
+    display: inline;
+    margin-right: 10px;
+    margin-left: 160px;
+}
+iframe{margin-right:20px;
+  margin-left:95px;
+}
+d img{margin-right:0px;
+margin-left:0px;}
+
+m img{margin-right:0px;
+margin-left:75px;}
+
+o img{margin-right:0px;
+margin-left:73px;}
+
+iframe{margin-right:20px;
+  margin-left:165px;}
+  
+i img{margin-right:0px;
+margin-left:324px;}
+
+w img{margin-right:0px;
+margin-left:130px;}
+
+v img{margin-right:0px;
+margin-left:50px;}
+
+u img{margin-right:0px;
+margin-left:150px;}
+
+ b img{border-radius:50px;}
+ 
+c img{border-radius:100px;}
+table, th, td {
+  border: 1px solid HoneyDew;
+  border-collapse: collapse;
+}
+tr {
+  background-color: Pink;
+}
+th, td {
+  vertical-align: top;
+  padding: 5px;
+  text-align: left;
+}
+th {
+  color: green;
+}
+td {
+  color: purple;
+}
